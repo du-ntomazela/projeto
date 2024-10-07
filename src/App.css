@@ -1,0 +1,27 @@
+@font-face {
+    font-family: tech;
+    src: url(../public/Fontes/DESIGNER.otf);
+  }
+
+#logo {
+    font-family: tech;
+}
+body {
+    padding: 20px;
+    background-color: rgb(3, 0, 77);
+}
+#nav {
+    transition: 0.5s;
+}
+#nav:hover {
+    transform: translateY(-5px);
+}
+#icon-footer  {
+    transition: 0.5s;
+}
+#icon-footer:hover{
+    transform: scale(1.1);
+}
+#footer {
+    border-radius: 15px 15px 0 0;
+}

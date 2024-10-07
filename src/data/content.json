@@ -1,0 +1,81 @@
+[
+{
+    "tema":"3D Connectivity",
+    "conteudo":"Como a primeira exibição na feira, ela fornece uma introdução geral e apresenta uma visão geral da feira.",
+    "responsavel":"ALL/Augusto",
+    "id": "1"
+},
+{
+    "tema":"All-optic Connection",
+    "conteudo":" solução de interconexão de alta velocidade de data center 800G; Soluções de desacoplamento aberto, metrô 800G, WDM agrupado, fgOTN; Módulos ópticos (800G QDD DR8, 400G QDD SR8)",
+    "responsavel": "Augusto",
+    "id": "2"
+},
+{
+    "tema":"All-optic Submarine",
+    "conteudo":" Demonstrar soluções turnkey de rede oceânica e apresentar operações e soluções de cabos internacionais; Destacar novos produtos: repetidores submarinos de segunda geração e produtos ROPA.",
+    "responsavel":"Mauricio",
+    "id": "3"
+},
+{
+    "tema":"Generation Communication Fiber Optic",
+    "conteudo":"Novas soluções de fibra óptica: Solução atual de capacidade ultra-alta para portadores (fibra de múltiplos núcleos); Fibra óptica de núcleo oco",
+    "responsavel": "Mauricio",
+    "id": "4"
+},
+{
+    "tema":"All-optical access network",
+    "conteudo":"Plataforma OLT 50G PON de próxima geração; Demonstração de soluções Mini PON para áreas remotasODN digital inteligente (produto + plataforma); Demonstrar as soluções Digital Intelligent ODN e PON de forma unificada, refletindo asolução geral",
+    "responsavel":"Daywison/Elaine",
+    "id": "5"
+},
+{
+    "tema": "FTTR-House",
+    "conteudo":"FTTR para residências: exibição de vários cenários da rede Gigabit totalmente óptica FTTR + Wifi6 e casos de aplicação, bem como os mais recentes produtos WIFI7; Divisores ópticos e outros produtos ODN aplicados ao FTTR: divisores ópticos, painéis ó pticos, patch cords XC.",
+    "responsavel": "Daywison/Elaine",
+    "id": "6"
+},
+{
+    "tema": "FTTR- Business",
+    "conteudo": "Solução de rede totalmente óptica para cenários pequenos, médios e micro FTTR-B (Solução Fiberhome EasyFTTO). Totalmente óptica e simples, ecológica e com economia de energia, fácil de construir e manter, segura e confiável, abrangendo pequenos, médios e micro escritórios,restaurantes e bares, supermercados, educação e treinamento, etc; \n Solução POL para campus de grande porte: Solução POL ultra-ampla, minimalista, inteligente e confiável que pode cobrir cenários de grande escala, como campi de empresas, hospitais, universidades etc;\n Soluções de switching para empresas: Cobertura limitada, requisitos moderados de desempenho de rede, layout fixo",
+    "responsavel":"Italo/Marcelo",
+    "id": "7"
+},
+{
+    "tema":"5G Overall Solution",
+    "conteudo":"Programa FWA, estação base integrada (exibiçãodo cenário do equipamento); Rede de baixo custo em pequena escala;  Programa MSDAS; 5G-A、6G; comunicação espacial, economia de baixa altitude",
+    "responsavel":"Cristiano",
+    "id": "8"
+},
+{
+    "tema":"Full Scenario Antenna",
+    "conteudo":" série e soluções de antena de alta eficiência, solução de cabo/sem cabo e tecnologia de alimentador de baixa perda, além de tecnologia de matriz de fusão multifrequencial, para alcançar um alto grau de integração dos principais componentes e aumentar a eficiência da antena em mais de 15%. Com base na plataforma 2L4H, lançou a antena multibanda 2L4H+8TR, um dos produtos de série de alta qualidade no mercado internacional; o tamanho é 23% menor e 25% mais leve do que o nível de referência do setor, o que economiza o custo de aluguel da superfície do céu para o cliente.",
+    "responsavel": "Cristiano",
+    "id": "9"
+},
+{
+    "tema":"Modular Station Energy",
+    "conteudo":"Programa de energia de suporte para equipamentos de estação base sem fio;",
+    "responsavel":"Cristiano",
+    "id": "10"
+},
+{
+    "tema":"Synaesthesia Integration",
+    "conteudo":"Sensoriamento por fibra óptica (Politécnica Óptica); Soluções de detecção de fibra óptica; Sistema de alarme de intrusão de perímetro, sistema inteligente de superfície de estrada em todas as áreas e produtos de detecção, detecção de falhas e vida útil de cabos de fibra óptica",
+    "responsavel": "Henrimark",
+    "id": "11"
+},
+{
+    "tema":"Smart Emergency Command",
+    "conteudo":"Vídeo do sistema de comando de emergência \n -Cenários de aplicativos, pontos problemáticos das soluções tradicionais, soluções de rede auto-organizadas, valor para o cliente, etc. ",
+    "responsavel":"Henrimark",
+    "id": "12"
+},
+{
+    "tema":"Container Data Center",
+    "conteudo":"Com base no conceito de data center de contêiner padronizado e modular, ele resolve a construção de infraestrutura de data center de operadoras, internet, redes governamentais e empresariais em diferentes países; Com base no sistema de data center, é possível distinguir diferentes módulos de contê ineres, que incluem principalmente: \n -Módulo de TI, módulo de CT, módulo de distribuição de energia, módulo de diesel, módulo de bateria, etc.",
+    "responsavel":"Giona",
+    "id": "13"
+}
+
+]
